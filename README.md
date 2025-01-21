@@ -1,2 +1,2 @@
 # ai-assistant-1
-this is simple ai assistant ....
+this is simple ai assistant ..
